@@ -74,12 +74,14 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
   - Comprehensive Evaluation Score:
     - Academic Year 2021-2022: **1/141 (Top 1%)**
     - Academic Year 2022-2023: **2/141 (Top 1.4%)**
-  - Languages: Mandarin (Native), English (Fluent)
-    - National Mandarin Proficiency Test (PSC): 92 (Class A - second Level)
-    - College English Test-6 (CET-6): 566 
-  - Programming Languages: C/C++, Python (Numpy, PyTorch, TensorFlow, Matplotlib)
-  - Developer Tools: Git, LaTeX (Overleaf), VS Code, PyCharm, Jupyter Notebook
+- 2018.09 - 2021.06, Senior Middle School, Nanning No.2 High School, China.
 
+# Skills
+- Languages: Mandarin (Native), English (Fluent)
+  - National Mandarin Proficiency Test (PSC): 92 (Class A - second Level)
+  - College English Test-6 (CET-6): 566 
+- Programming Languages: C/C++, Python (Numpy, PyTorch, TensorFlow, Matplotlib)
+- Developer Tools: Git, LaTeX (Overleaf), VS Code, PyCharm, Jupyter Notebook
 
 <!-- - 2021.9 - 至今，本科，武汉大学国家网络安全学院，专业：网络空间安全
   - **学业排名：** GPA排名：**2/132 (1.5%)**、加权平均分排名：**2/132 (1.5%)**  
