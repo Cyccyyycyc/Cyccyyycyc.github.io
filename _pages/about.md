@@ -18,7 +18,9 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Yan Cai(蔡艳), I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, advised by Prof. [Run Wang](http://wangrun.github.io/), pursuing a B.E. degree in Cyberspace Security.
+My name is Yan Cai(蔡艳), I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Cyberspace Security.
+
+It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. 
 
 <!-- My research interest lies in trustworthy machine learning, with a specific interest in responsible (multimodal) generative models. Please check my publication for more details. -->
 
@@ -69,11 +71,11 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
 
 # 📖 Educations
 - 2021.09 - Now, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in  Cyberspace Security.
-  - GPA: 3.94/4.0; GPA Rank:**2/132(1.5%)**;
-  - Average Score (Credit Weighted): 92.74/100; Grade Rank:**2/132(1.5%)**;
+  - GPA: 3.94/4.0, GPA Rank:**2/132(1.5%)**
+  - Average Score (Credit Weighted): 92.74/100, Grade Rank:**2/132(1.5%)**
   - Comprehensive Evaluation Score:
-    - Academic Year 2021-2022: 1/141 (Top 1%)
-    - Academic Year 2022-2023: 2/141 (Top 2%)
+    - Academic Year 2021-2022: **1/141 (Top 1%)**
+    - Academic Year 2022-2023: **2/141 (Top 2%)**
   - Languages: Mandarin (Native), English (Fluent)
     - National Mandarin Proficiency Test (PSC): 92 (Class A - second Level)
     - College English Test-6 (CET-6): 566 
