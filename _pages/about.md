@@ -47,14 +47,14 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
 - **蓝桥杯软件赛道 Python 程序设计赛：湖北赛区三等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](../docs/蓝桥杯.pdf)      -->
 
 # 🥇 Scholarships and Honors
-- *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
-- *2023.12* **First Class Scholarship of WHU** (Award Rate: 5% department-wide) *Wuhan University* 
-- *2023.12* **Merit Student** (Award Rate: 10% department-wide) *Wuhan University* 
-- *2023.09* **Outstanding Youth Volunteer Cadre** *Wuhan University* 
-- *2023.05* **Outstanding Communist Youth League Member Cadre** *Wuhan University* 
-- *2023.05* **LUOGE-TIANYOU Scholarship** (￥10000, Award Rate: 5/1213=0.4%) *Wuhan University* 
-- *2022.12* **First Class Scholarship of WHU** (Award Rate: 5% department-wide) *Wuhan University* 
-- *2022.12* **Merit Student** (Award Rate: 10% department-wide) *Wuhan University*
+- *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide), *Ministry of Education, China*
+- *2023.12* **First Class Scholarship of WHU** (Award Rate: 5% department-wide), *Wuhan University* 
+- *2023.12* **Merit Student** (Award Rate: 10% department-wide), *Wuhan University* 
+- *2023.09* **Outstanding Youth Volunteer Cadre**, *Wuhan University* 
+- *2023.05* **Outstanding Communist Youth League Member Cadre**, *Wuhan University* 
+- *2023.05* **LUOGE-TIANYOU Scholarship** (￥10000, Award Rate: 5/1213=0.4%), *Wuhan University* 
+- *2022.12* **First Class Scholarship of WHU** (Award Rate: 5% department-wide), *Wuhan University* 
+- *2022.12* **Merit Student** (Award Rate: 10% department-wide), *Wuhan University*
 
 <!-- - *2023.12* **国家奖学金** (全国前0.2%，我校按专业成绩排名取高者授予) *中华人民共和国教育部* &nbsp;&nbsp;[[证明]](../docs/国家奖学金.pdf)
 - *2023.12* **武汉大学优秀学生甲等奖学金** (院内前5%) *武汉大学* &nbsp;&nbsp;[[证明]](../docs/2022-2023甲等奖学金.pdf)
@@ -69,11 +69,11 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
 
 # 📖 Educations
 - 2021.09 - Now, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in  Cyberspace Security.
-  - GPA: 3.94/4.0, GPA Rank:**2/132 (1.5%)**
-  - Average Score (Credit Weighted): 92.74/100, Grade Rank:**2/132 (1.5%)**
+  - GPA: 3.94/4.0, GPA Rank:**2/141 (Top 1.4%)**
+  - Average Score (Credit Weighted): 93.26/100, Grade Rank:**2/141 (Top 1.4%)**
   - Comprehensive Evaluation Score:
     - Academic Year 2021-2022: **1/141 (Top 1%)**
-    - Academic Year 2022-2023: **2/141 (Top 2%)**
+    - Academic Year 2022-2023: **2/141 (Top 1.4%)**
   - Languages: Mandarin (Native), English (Fluent)
     - National Mandarin Proficiency Test (PSC): 92 (Class A - second Level)
     - College English Test-6 (CET-6): 566 
