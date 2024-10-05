@@ -77,12 +77,13 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
 - 2018.09 - 2021.06, Senior Middle School, Nanning No.2 High School, China.
 
 
-# ⚙️ Skills
+# 🔧 Skills
 - Languages: Mandarin (Native), English (Fluent)
   - National Mandarin Proficiency Test (PSC): 92 (Class A - second Level)
   - College English Test-6 (CET-6): 566 
 - Programming Languages: C/C++, Python (Numpy, PyTorch, TensorFlow, Matplotlib)
 - Developer Tools: Git, LaTeX (Overleaf), VS Code, PyCharm, Jupyter Notebook
+
 
 # 🎡 Activities
 ## Academic Services
