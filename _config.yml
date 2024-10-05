@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "蔡艳的个人主页"
-description: "国家网络安全学院 网络空间安全专业 2021级本科生"
+title: "Yan Cai's Homepage"
+description: "Undergraduate Student at Wuhan University"
 repository               : "https://Cyccyyycyc.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "蔡艳"
+  name             : "Yan Cai(蔡艳)"
   avatar           : "images/cy-300-340.jpg"
-  bio              : "武汉大学"
-  location         : "湖北省武汉市"
+  bio              : "Wuhan University"
+  location         : "Hubei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3CHkOSoAAAAJ&hl=en"
