@@ -49,14 +49,12 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
 # 🥇 Scholarships and Honors
 - *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2023.12* **First Class Scholarship of WHU** (Award Rate: 5% department-wide) *Wuhan University* 
-- *2023.12* **Merit Student** (Award Rate: 10\% department-wide) *Wuhan University* 
-<!-- - *2023.12* **学习先进个人** *Wuhan University* 
-- *2023.12* **科创先进个人** *Wuhan University*  -->
+- *2023.12* **Merit Student** (Award Rate: 10% department-wide) *Wuhan University* 
 - *2023.09* **Outstanding Youth Volunteer Cadre** *Wuhan University* 
 - *2023.05* **Outstanding Communist Youth League Member Cadre** *Wuhan University* 
 - *2023.05* **LUOGE-TIANYOU Scholarship** (￥10000, Award Rate: 5/1213=0.4%) *Wuhan University* 
 - *2022.12* **First Class Scholarship of WHU** (Award Rate: 5% department-wide) *Wuhan University* 
-- *2022.12* **Merit Student** (Award Rate: 10\% department-wide) *Wuhan University*
+- *2022.12* **Merit Student** (Award Rate: 10% department-wide) *Wuhan University*
 
 <!-- - *2023.12* **国家奖学金** (全国前0.2%，我校按专业成绩排名取高者授予) *中华人民共和国教育部* &nbsp;&nbsp;[[证明]](../docs/国家奖学金.pdf)
 - *2023.12* **武汉大学优秀学生甲等奖学金** (院内前5%) *武汉大学* &nbsp;&nbsp;[[证明]](../docs/2022-2023甲等奖学金.pdf)
