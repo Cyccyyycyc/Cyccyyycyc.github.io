@@ -15,7 +15,7 @@ main:
     url: "/#-educations"
 
   - title: "Skills"
-    url: "/#-skills"
+    url: "/%EF%B8%8F-skills"
 
-  # - title: "Activities"
-  #   url: "/#-activities"
+  - title: "Activities"
+    url: "/#-activities"

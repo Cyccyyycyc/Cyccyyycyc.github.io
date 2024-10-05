@@ -84,9 +84,11 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
 - Programming Languages: C/C++, Python (Numpy, PyTorch, TensorFlow, Matplotlib)
 - Developer Tools: Git, LaTeX (Overleaf), VS Code, PyCharm, Jupyter Notebook
 
-<!-- # 🎡 Activities
+# 🎡 Activities
 ## Academic Services
-- Sub-reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023. -->
+- Sub-Reviewer, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
+- Sub-Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
+- Sub-Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
 
 <!-- - 2021.9 - 至今，本科，武汉大学国家网络安全学院，专业：网络空间安全
   - **学业排名：** GPA排名：**2/132 (1.5%)**、加权平均分排名：**2/132 (1.5%)**  
