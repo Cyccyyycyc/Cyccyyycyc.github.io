@@ -20,7 +20,7 @@ Hi there 👋👋 !
 
 My name is Yan Cai(蔡艳), I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Cyberspace Security.
 
-It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. 
+It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. My research interest lies in trustworthy machine learning. Please check my publication for more details.
 
 <!-- My research interest lies in trustworthy machine learning, with a specific interest in responsible (multimodal) generative models. Please check my publication for more details. -->
 
