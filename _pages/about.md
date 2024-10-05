@@ -18,13 +18,13 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Yan Cai(蔡艳), I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Cyberspace Security.
+My name is Yan Cai (蔡艳), I'm currently a senior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Cyberspace Security.
 
 It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. My research interest lies in trustworthy machine learning. Please check my publication for more details.
 
 <!-- My research interest lies in trustworthy machine learning, with a specific interest in responsible (multimodal) generative models. Please check my publication for more details. -->
 
-🌟🌟 I’m open to any possible discussions or collaboration opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
+🌟🌟 I'm open to any possible discussions or collaboration opportunities. If you're interested in working with me, don't hesitate to drop me an email!
 
 <!-- 我是 **蔡艳**，目前就读于[武汉大学国家网络安全学院](https://cse.whu.edu.cn/)网络空间安全专业。
 
@@ -69,8 +69,8 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
 
 # 📖 Educations
 - 2021.09 - Now, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in  Cyberspace Security.
-  - GPA: 3.94/4.0, GPA Rank:**2/132(1.5%)**
-  - Average Score (Credit Weighted): 92.74/100, Grade Rank:**2/132(1.5%)**
+  - GPA: 3.94/4.0, GPA Rank:**2/132 (1.5%)**
+  - Average Score (Credit Weighted): 92.74/100, Grade Rank:**2/132 (1.5%)**
   - Comprehensive Evaluation Score:
     - Academic Year 2021-2022: **1/141 (Top 1%)**
     - Academic Year 2022-2023: **2/141 (Top 2%)**
