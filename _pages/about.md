@@ -47,6 +47,8 @@ Ziheng Huang, Boheng Li, **Yan Cai**, Run Wang, Shangwei Guo, Liming Fang, Jing 
 - **蓝桥杯软件赛道 Python 程序设计赛：湖北赛区三等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](../docs/蓝桥杯.pdf)      -->
 
 # 🥇 Scholarships and Honors
+- *2024.10* **National Scholarship** (Award Rate: 0.2% national-wide), *Ministry of Education, China*
+- *2024.10* **Merit Student** (Award Rate: 10% department-wide), *Wuhan University* 
 - *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide), *Ministry of Education, China*
 - *2023.12* **First Class Scholarship of WHU** (Award Rate: 5% department-wide), *Wuhan University* 
 - *2023.12* **Merit Student** (Award Rate: 10% department-wide), *Wuhan University* 
